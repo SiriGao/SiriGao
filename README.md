@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 RUC大三，统院应经数科，建此账号为完成各科作业。
-抱拳了！
+抱拳！
 
 <!---
 SiriGao/SiriGao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
