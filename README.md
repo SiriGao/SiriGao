@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @SiriGao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in SED template reconstruction.
+- 🌱 I’m currently learning astrophysics in NAOC.
+- 💞️ 
+- 📫 
 
-RUC大三，统院应经数科，建此账号为完成各科作业。
-抱拳！
+
 
 <!---
 SiriGao/SiriGao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
